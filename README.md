@@ -1,6 +1,6 @@
 # Text Dots Counter
 
-**Description: **We want to count number of `.` inside characters. for example `i` have one dot, and `p` not have a dot.
+**Description:** We want to count number of `.` inside characters. for example `i` have one dot, and `p` not have a dot.
 
 Support English, Persian, and Arabic languages
 
