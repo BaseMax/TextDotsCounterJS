@@ -11,6 +11,8 @@ Supported languages:
 - Persian
 - Arabic
 
+**Demo:** https://basemax.github.io/TextDotsCounterJS/
+
 [![JavaScript Text Dots Counter](preview.gif)](https://basemax.github.io/TextDotsCounterJS/)
 
 ## Challenge
