@@ -9,7 +9,7 @@ Support languages:
 - Persian
 - Arabic
 
-[![](preview.gif)](https://basemax.github.io/PersianDotsCounterJS/)
+[![JavaScript Text Dots Counter](preview.gif)](https://basemax.github.io/TextDotsCounterJS/)
 
 ## Challenge
 
@@ -20,3 +20,12 @@ Support languages:
 Should have 7 dots.
 
 As you see "ی" when is at middle of a word it has 2 dots but when you put "ی" at end of a word, it not has a dot.
+
+
+And,
+
+```
+Hi there?
+```
+
+Should have 1 dots. (Only `i` has one dot)
