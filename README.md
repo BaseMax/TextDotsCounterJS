@@ -1,8 +1,13 @@
-# Persian Text Dots Counter (Javascript)
+# Text Dots Counter (Javascript)
 
 > I attended in a Front-end challenge, and this was one of project task.
 
-JS script (web-based) to count number of `.` inside characters. for example `i` have one dot, and `p` not have a dot. (Support English, Persian, and Arabic languages)
+JS script (web-based) to count number of `.` inside characters. for example `i` have one dot, and `p` not have a dot.
+
+Support languages:
+- English
+- Persian
+- Arabic
 
 [![](preview.gif)](https://basemax.github.io/PersianDotsCounterJS/)
 
