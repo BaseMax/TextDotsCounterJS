@@ -2,7 +2,9 @@
 
 > I attended in a Front-end challenge, and this was one of project task.
 
-JS script (web-based) to count number of `.` inside characters. for example `i` have one dot, and `p` not have a dot.
+JS script (web-based) to count number of **dots** inside characters.
+
+**For example `i` have one dot, and `p` not have a dot.**
 
 Supported languages:
 - English
