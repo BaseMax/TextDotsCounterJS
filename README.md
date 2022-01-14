@@ -4,7 +4,7 @@
 
 JS script (web-based) to count number of `.` inside characters. for example `i` have one dot, and `p` not have a dot.
 
-Support languages:
+Supported languages:
 - English
 - Persian
 - Arabic
